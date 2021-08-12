@@ -19,7 +19,7 @@ body{
         text-align: center;
     }
     .container .header1 .logo{
-        background-image: url(/images/bg-header-desktop.png) ;
+        background-image: url(images/bg-header-desktop.png) ;
     
     }
     .container .header1 img{
@@ -657,7 +657,7 @@ body{
         text-align: center;
     }
     .container .header1 .logo{
-        background-image: url(/images/bg-header-mobile.png) ;
+        background-image: url(images/bg-header-mobile.png) ;
     
     }
     .container .header1 img{
