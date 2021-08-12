@@ -19,7 +19,7 @@ body{
         text-align: center;
     }
     .container .header1 .logo{
-        background-image: url(https://github.com/Reyad-2011/FRONTENDMENTOR-CHALLENGE-3/blob/1eda3210bbb69e1e42c92afd493102d1d74b29f6/images/bg-header-desktop.png) ;
+        background-image: url(images/bg-header-desktop.png) ;
     
     }
     .container .header1 img{
@@ -376,7 +376,7 @@ body{
         text-align: center;
     }
     .container .header1 .logo{
-        background-image: url(https://github.com/Reyad-2011/FRONTENDMENTOR-CHALLENGE-3/blob/1eda3210bbb69e1e42c92afd493102d1d74b29f6/images/bg-header-mobile.png) ;
+        background-image: url(images/bg-header-mobile.png) ;
     
     }
     .container .header1 img{
@@ -657,7 +657,7 @@ body{
         text-align: center;
     }
     .container .header1 .logo{
-        background-image: url(https://github.com/Reyad-2011/FRONTENDMENTOR-CHALLENGE-3/blob/1eda3210bbb69e1e42c92afd493102d1d74b29f6/images/bg-header-mobile.png) ;
+        background-image: url(images/bg-header-mobile.png) ;
     
     }
     .container .header1 img{
